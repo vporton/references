@@ -39,6 +39,7 @@ const { chains, provider } = configureChains(
 - `fantom`
 - `fantomTestnet`
 - `foundry`
+- `gnosis`
 - `hardhat`
 - `localhost`
 - `optimism`
